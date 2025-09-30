@@ -2,7 +2,7 @@ Package: RBaM
 Type: Package
 Title: Bayesian Modeling: Estimate a Computer Model and Make Uncertain
         Predictions
-Version: 1.0.1
+Version: 1.1.1
 Authors@R: c(
     person("Benjamin", "Renard", email = "benjamin.renard@inrae.fr",role = c("aut", "cre","cph"),comment = c(ORCID = "0000-0001-8447-5430")),
     person("INRAE", role = c("fnd")),
@@ -34,15 +34,15 @@ URL: https://github.com/BaM-tools/RBaM
 BugReports: https://github.com/BaM-tools/RBaM/issues
 Depends: R (>= 4.0.0)
 Imports: ggplot2, gridExtra, R.utils, utils, grDevices, stats, rjson,
-        rlang, tools, tidyr
+        rlang, tools, tidyr, mvtnorm, progress
 Suggests: rmarkdown
-RoxygenNote: 7.2.3
+RoxygenNote: 7.3.2
 NeedsCompilation: no
-Packaged: 2025-07-07 06:13:29 UTC; brenard
+Packaged: 2025-09-30 17:25:41 UTC; brenard
 Author: Benjamin Renard [aut, cre, cph] (ORCID:
     <https://orcid.org/0000-0001-8447-5430>),
   INRAE [fnd],
   Ministère de la Transition Ecologique - SCHAPI [fnd]
 Maintainer: Benjamin Renard <benjamin.renard@inrae.fr>
 Repository: CRAN
-Date/Publication: 2025-07-10 14:40:05 UTC
+Date/Publication: 2025-09-30 17:40:02 UTC
