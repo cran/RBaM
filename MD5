@@ -1,8 +1,8 @@
-2f643622b18c59b65a8874fc832b18b4 *DESCRIPTION
+97f9d4991f96c8a66851f01f69a72cfc *DESCRIPTION
 a3dfa0854a131edf6b5f5b3d0885ddda *NAMESPACE
-1fa66d28fc8d8e13e5ce8977bcc86e24 *NEWS.md
+5e9f1c3f3d230e2bc7bbf8d7a50bff1e *NEWS.md
 39139718907e56710f503a3c2a461f16 *R/MCMC.R
-da855ad5954794fc5c064920b39c3a7e *R/RUI.R
+1736771c7f2b0acd6169804c1b1e5d8b *R/RUI.R
 a1be3704c486bfe5fef269514b664b87 *R/RUI_modelSpecific.R
 2ce4bf31f5b20a9a4254730bb79130dc *R/class_dataset.R
 decafa8ba3f1aa8789b69a1461f2a734 *R/class_mcmcCooking.R
@@ -19,7 +19,7 @@ d21a62ffc662b5d4017c01bfcb3f894d *R/class_xtraModelInfo.R
 d02ecfaa548ae380b263c437288d8622 *R/data.R
 3a93749d2c8dd55ee03d0f8a0587e777 *R/inferenceFunk.R
 c1a4b5ffed1c031f69e9f0c215620365 *R/utilities_SPD.R
-7f8446e4055c63ceb416489369c62429 *R/utilities_private.R
+45771870f74f54e0cc297e4dd359f4fe *R/utilities_private.R
 6f5121ae50cd7971e9931e627cf5c546 *R/utilities_public.R
 9e5027a4aba3b2d9fc8dc8bed037cc48 *R/zzz.R
 b13c5669736b8a77ef2af59fb7bb8f27 *README.md
